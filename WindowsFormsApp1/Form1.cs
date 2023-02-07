@@ -12,6 +12,8 @@ namespace WindowsFormsApp1
             InitializeComponent();
             LoadPetStock();
         }
+        //deserielise xml and populate listbox with pet stock
+        
         private void LoadPetStock()
         {
             if (System.IO.File.Exists("petstock.xml"))

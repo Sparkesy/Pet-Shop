@@ -1,1 +1,17 @@
-﻿<?xml version="1.0" encoding="utf-8" ?> 
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ArrayOfPet>
+	<Pet>
+		<Species>Cat</Species>
+		<Breed>Siamese</Breed>
+		<Color>Brown</Color>
+		<Age>3</Age>
+		<Gender>Male</Gender>
+	</Pet>
+	<Pet>
+		<Species>Dog</Species>
+		<Breed>Labrador</Breed>
+		<Color>Yellow</Color>
+		<Age>5</Age>
+		<Gender>Female</Gender>
+	</Pet>
+</ArrayOfPet>
